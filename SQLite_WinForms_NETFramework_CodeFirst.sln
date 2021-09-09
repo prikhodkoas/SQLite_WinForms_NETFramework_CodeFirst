@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite_WinForms_NETFramework_CodeFirst", "SQLite_WinForms_NETFramework_CodeFirst\SQLite_WinForms_NETFramework_CodeFirst.csproj", "{F4F83AB4-ACD5-424E-8069-9305C907555C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F83AB4-ACD5-424E-8069-9305C907555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F83AB4-ACD5-424E-8069-9305C907555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F83AB4-ACD5-424E-8069-9305C907555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F83AB4-ACD5-424E-8069-9305C907555C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9E40D7-CD49-4664-A475-5F9EAB8AC2F7}
+	EndGlobalSection
+EndGlobal
